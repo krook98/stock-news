@@ -12,8 +12,8 @@ Python 3.9.10
 I run the code as a scheduled task on PythonAnywhere (https://www.pythonanywhere.com)
 
 ### Setup
-To run this project you might need your own API keys. Twilio and OpenWeather accounts are neccessary.    
-requests, twilio and os Python libraries are required
+To run this project you might need your own API keys. News API and Alpha Vantage accounts are neccessary.    
+requests, twilio, datetime and os Python libraries are required
 
 ### Launch
 Firstly, you need to add your own API keys, phone number and notification number from Twilio. You set environment variables in terminal with:  <br/><br/>
