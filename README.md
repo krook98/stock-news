@@ -2,9 +2,9 @@
 Get SMS notification when your favourite stock company's price changes.
 
 ### API Used
-I send SMS notifications with Twilio API (https://www.twilio.com/)
-Stock news are taken with News API (https://newsapi.org/v2/everything)
-Stock prices are tracked with Alpha Vantage API, TIME_SERIES_DAILY (https://www.alphavantage.co/documentation/)
+I send SMS notifications with Twilio API (https://www.twilio.com/)  
+Stock news are taken with News API (https://newsapi.org/v2/everything)  
+Stock prices are tracked with Alpha Vantage API, TIME_SERIES_DAILY (https://www.alphavantage.co/documentation/)  
 
 
 ### Technology
